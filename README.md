@@ -1,1 +1,1 @@
-# parakeet-mlx
+# Parakeet MLX
