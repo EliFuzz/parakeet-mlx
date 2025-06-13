@@ -34,8 +34,8 @@ keywords = [
 ]
 
 [project.urls]
-Repository = "https://github.com/senstella/parakeet-mlx.git"
-Issues = "https://github.com/senstella/parakeet-mlx/issues"
+Repository = "https://github.com/EliFuzz/parakeet-mlx.git"
+Issues = "https://github.com/EliFuzz/parakeet-mlx/issues"
 
 [project.scripts]
 parakeet-mlx = "parakeet_mlx.cli:app"
